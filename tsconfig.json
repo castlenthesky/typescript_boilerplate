@@ -4,7 +4,7 @@
     "module": "commonjs",
     "moduleResolution": "node",
     "rootDir": "src",/*ts source direcotry*/
-    "outDir": "build", /*where to compile javascript files*/
+    "outDir": "dist", /*where to compile javascript files*/
     "removeComments": true,
     "noImplicitAny": true,
     "declaration": false,
